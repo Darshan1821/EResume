@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972000010891",
+    "firebase_url": "https://dexter-resume.firebaseio.com",
+    "project_id": "dexter-resume",
+    "storage_bucket": "dexter-resume.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972000010891:android:cc67cc3cef94228f",
+        "android_client_info": {
+          "package_name": "com.dexter.resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972000010891-t2gge1l2vuebigieqp5ir9pk2mc1e60m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexter.resume",
+            "certificate_hash": "f1f30d4eb0b9b2312aab7e8ccdf283d7568b38dc"
+          }
+        },
+        {
+          "client_id": "972000010891-ubph6cde638fu87dqqk10pmrmt81n62j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConAggvfrJZ7R4bkCSLWARdAM3fyaSg6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972000010891-ubph6cde638fu87dqqk10pmrmt81n62j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
